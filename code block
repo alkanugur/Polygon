@@ -1,0 +1,4 @@
+function [alan]= cokgenalan(kenar,uzunluk,yaricap)
+x=kenar*uzunluk;
+alan=0.5*x*yaricap;
+end
